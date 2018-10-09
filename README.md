@@ -1,2 +1,2 @@
-# BootcampPortfolio
-Week 11 Portfolio Update
+# Responsive-Portfolio
+Week 2 Homework
